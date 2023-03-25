@@ -1,26 +1,31 @@
-### My name is Mathieu Tuli, I am an MSc student in the department of Computer Science co-supervised by Sheila McIlraith and Scott Sanner at the University of Toronto and as affiliate with the Vector Institute.
+### My name is Mathieu Tuli, I am an AI Research Scientist at LG Electronics Canada. I graduated from the University of Toronto with my BSc (Computer Engineering) and MSc (Computer Science - Theory of Mind and Text-Based Agents in Deep Learning).
+
+My current research focuses on digital asset generation and reconstruction. I focus on generative of 3D assets such as avatars and their animation.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mathieutuli&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathieutuli&hide=TeX&layout=compact)
 
-### 🔭 I’m currently working on controllable text generation for task-oriented dialogue systems
-All my code can be found at [controllable-text-generation](https://github.com/MathieuTuli/controllable-text-generation)
+### 🔭 My Masters focused on controllable text generation for task-oriented dialogue systems where my thesis was accepted at [NeurIPS](https://openreview.net/forum?id=StlwkcFsjaZ)
 
-Specifically, I am focused at the intersection of AI automated planning and Machine Learning.
-
-### I’m looking to collaborate on task-oriented dialogue so send me email if you have ideas or simply wish to chat!
+### I’m always open to chatting so send me email if you have ideas or simply wish to chat!
 
 ### 📫 How to reach me: email is the best bet: <tuli.mathieu@gmail.com>
 
 ### Here are some other projects I (have) work(ed) on
 
-#### [dyanmic-stable-matching](https://github.com/MathieuTuli/dyanmic-stable-matching) (Present)
+#### [Learning to Follow Instructions in Text-Based Games](https://github.com/mathieutuli/ltl-gata)
+Text-based games present a unique class of sequential decision making problem in which agents interact with a partially observable, simulated environment via actions and observations conveyed through natural language. Such observations typically include instructions that, in a reinforcement learning (RL) setting, can directly or indirectly guide a player towards completing reward-worthy tasks. In this work, we study the ability of RL agents to follow such instructions. We conduct experiments that show that the performance of state-of-the-art text-based game agents is largely unaffected by the presence or absence of such instructions, and that these agents are typically unable to execute tasks to completion. To further study and address the task of instruction following, we equip RL agents with an internal structured representation of natural language instructions in the form of Linear Temporal Logic (LTL), a formal language that is increasingly used for temporally extended reward specification in RL. Our framework both supports and highlights the benefit of understanding the temporal semantics of instructions and in measuring progress towards achievement of such a temporally extended behaviour. Experiments with 500+ games in TextWorld demonstrate the superior performance of our approach.
+
+#### [autoHyper](https://github.com/MathieuTuli/autoHyper) (2022)
+Automatic hyper-parameter tuning of convolutional neural networks using novel metrics.
+
+#### [AdaS](https://github.com/mahdihosseini/adas) (2022)
+In this project, my colleague ([Mahdi Hosseini](https://github.com/mahdihosseini)) and I designed a new adaptive optimization technique for stochastic gradient descent. This project is built in PyTorch. The code format, training pipeline, and general construction in my major contribution to this work, while Professor Hosseini development the optimizer theoretically prior to my involvement with the work.
+
+#### [dyanmic-stable-matching](https://github.com/MathieuTuli/dyanmic-stable-matching) (2021)
 In this project my colleagues and I are investigating a variant of the classic [stable matching problem](https://en.wikipedia.org/wiki/Stable_marriage_problem). The traditional setup is to have N men and women, each with associated preferences for the opposite sex, and the goal is to match each man and woman in a stable fashion. We question what happens when preferences decay over time (divorce does happen after all), and how well state-of-the-art algorithms handle time-decaying preferences and whether some are better than others. As an ambition, we are also looking into how we might improve current methods to better handle time-decaying preferences.
 
 This variant is much more interesting froma practical standpoint, where agents in a system will have varying utilities for other agents, and finding a stable match, or the most stable match over time, can be critical to things like efficieny and long-term satisfaction.
-
-#### [AdaS](https://github.com/mahdihosseini/adas) (Present)
-In this project, my colleague ([Mahdi Hosseini](https://github.com/mahdihosseini)) and I designed a new adaptive optimization technique for stochastic gradient descent. This project is built in PyTorch. The code format, training pipeline, and general construction in my major contribution to this work, while Professor Hosseini development the optimizer theoretically prior to my involvement with the work.
 
 #### [UHINet](https://github.com/MathieuTuli/uhinet) (2019-2020)
 In this project, my colleagues and I investigated the use of satellite imagery and satellite tempearture maps to model the effect of infrastructure development on temperature changes in a city ([urban heat island effect](https://www.nationalgeographic.org/encyclopedia/urban-heat-island/) = UHI). The contributions are two-fold
