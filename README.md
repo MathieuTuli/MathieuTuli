@@ -1,20 +1,28 @@
-### My name is Mathieu Tuli, I am an AI Research Scientist at LG Electronics Canada. I graduated from the University of Toronto with my BSc (Computer Engineering) and MSc (Computer Science - Theory of Mind and Text-Based Agents in Deep Learning).
+### :metal: Mathieu Tuli :metal: 
 
-My current research focuses on digital asset generation and reconstruction. I focus on generative of 3D assets such as avatars and their animation.
+#### Software Engineer, AI Research Scientist, Vim-er
 
+Just trying to make cool things with software. 
+
+My current research focuses on 3D digital asset generation, reconstruction, and animation.
+
+<!--
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mathieutuli&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathieutuli&hide=TeX&layout=compact)
 
+
 ### 🔭 My Masters focused on controllable text generation for task-oriented dialogue systems where my thesis was accepted at [NeurIPS](https://openreview.net/forum?id=StlwkcFsjaZ)
+-->
 
-### I’m always open to chatting so send me email if you have ideas or simply wish to chat!
-
-### 📫 How to reach me: email is the best bet: <tuli.mathieu@gmail.com>
-
-### Here are some other projects I (have) work(ed) on
-
-#### [Learning to Follow Instructions in Text-Based Games](https://github.com/mathieutuli/ltl-gata)
+Me:
+- website: <http://mathieutuli.com/>
+- email: <tuli.mathieu@gmail.com>
+- My Master's Dissertation: [Learning to Follow Instructions in Text-Based Games](https://github.com/mathieutuli/ltl-gata)
+- I hobby in game dev, film photography, digital art, sports (tennis), and a lil woodworking
+  
+<!--
 Text-based games present a unique class of sequential decision making problem in which agents interact with a partially observable, simulated environment via actions and observations conveyed through natural language. Such observations typically include instructions that, in a reinforcement learning (RL) setting, can directly or indirectly guide a player towards completing reward-worthy tasks. In this work, we study the ability of RL agents to follow such instructions. We conduct experiments that show that the performance of state-of-the-art text-based game agents is largely unaffected by the presence or absence of such instructions, and that these agents are typically unable to execute tasks to completion. To further study and address the task of instruction following, we equip RL agents with an internal structured representation of natural language instructions in the form of Linear Temporal Logic (LTL), a formal language that is increasingly used for temporally extended reward specification in RL. Our framework both supports and highlights the benefit of understanding the temporal semantics of instructions and in measuring progress towards achievement of such a temporally extended behaviour. Experiments with 500+ games in TextWorld demonstrate the superior performance of our approach.
+
 
 #### [autoHyper](https://github.com/MathieuTuli/autoHyper) (2022)
 Automatic hyper-parameter tuning of convolutional neural networks using novel metrics.
@@ -42,3 +50,4 @@ Unfortunately, although fun and interesting, the results did not pan out. A few 
 2. The clustering of colours ends up resolving to blended colours that didn't really represent the initial samples well. Meaning, although the image looks very pink, there is in fact a lot of black/brown/grey around edges, in shadows, etc. that means that the image clusters towards a dark brown/pink. 
 
 Looking back, there are many things I would do differently, although I would spend paragraphs talking about it. If you'd like to chat about it, send me an [email](tuli.mathieu@gmail.com)!
+-->
