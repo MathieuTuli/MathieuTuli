@@ -1,4 +1,4 @@
-### :metal: Mathieu Tuli :metal: 
+### Mathieu Tuli
 
 #### Software Engineer, AI Research Scientist, Vim-er
 
