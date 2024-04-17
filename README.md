@@ -2,9 +2,9 @@
 
 #### Software Engineer, AI Research Scientist, Vim-er
 
-Just trying to make cool things with software. 
+just trying to make cool things with software. 
 
-My current research focuses on 3D digital asset generation, reconstruction, and animation.
+my current research focuses on 3D digital asset generation, reconstruction, and animation.
 
 <!--
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mathieutuli&count_private=true&show_icons=true&include_all_commits=true)
