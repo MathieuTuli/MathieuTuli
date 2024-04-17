@@ -14,10 +14,10 @@ My current research focuses on 3D digital asset generation, reconstruction, and 
 ### 🔭 My Masters focused on controllable text generation for task-oriented dialogue systems where my thesis was accepted at [NeurIPS](https://openreview.net/forum?id=StlwkcFsjaZ)
 -->
 
-Me:
+me:
 - website: <http://mathieutuli.com/>
 - email: <tuli.mathieu@gmail.com>
-- My Master's Dissertation: [Learning to Follow Instructions in Text-Based Games](https://github.com/mathieutuli/ltl-gata)
+- my master's dissertation: [Learning to Follow Instructions in Text-Based Games](https://github.com/mathieutuli/ltl-gata)
 - I hobby in game dev, film photography, digital art, sports (tennis), and a lil woodworking
   
 <!--
