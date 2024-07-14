@@ -1,10 +1,10 @@
 ### Mathieu Tuli
 
-#### Software Engineer, AI Research Scientist, Vim-er
+#### Software Engineer, AI Research Scientist
 
-just trying to make cool things with software. 
+Bridging research and product. Building products people can actually use.
 
-my current research focuses on 3D digital asset generation, reconstruction, and animation.
+Currently focused on generative for digital media, specifically for digital human products and personalized image/video diffusion.
 
 <!--
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mathieutuli&count_private=true&show_icons=true&include_all_commits=true)
@@ -14,11 +14,10 @@ my current research focuses on 3D digital asset generation, reconstruction, and 
 ### 🔭 My Masters focused on controllable text generation for task-oriented dialogue systems where my thesis was accepted at [NeurIPS](https://openreview.net/forum?id=StlwkcFsjaZ)
 -->
 
-me:
 - website: <http://mathieutuli.com/>
 - email: <tuli.mathieu@gmail.com>
 - my master's dissertation: [Learning to Follow Instructions in Text-Based Games](https://github.com/mathieutuli/ltl-gata)
-- I hobby in game dev, film photography, digital art, sports (tennis), and a lil woodworking
+- I hobby in game dev, film photography, digital art, sports (tennis), and a sometimes woodworking.
   
 <!--
 Text-based games present a unique class of sequential decision making problem in which agents interact with a partially observable, simulated environment via actions and observations conveyed through natural language. Such observations typically include instructions that, in a reinforcement learning (RL) setting, can directly or indirectly guide a player towards completing reward-worthy tasks. In this work, we study the ability of RL agents to follow such instructions. We conduct experiments that show that the performance of state-of-the-art text-based game agents is largely unaffected by the presence or absence of such instructions, and that these agents are typically unable to execute tasks to completion. To further study and address the task of instruction following, we equip RL agents with an internal structured representation of natural language instructions in the form of Linear Temporal Logic (LTL), a formal language that is increasingly used for temporally extended reward specification in RL. Our framework both supports and highlights the benefit of understanding the temporal semantics of instructions and in measuring progress towards achievement of such a temporally extended behaviour. Experiments with 500+ games in TextWorld demonstrate the superior performance of our approach.
