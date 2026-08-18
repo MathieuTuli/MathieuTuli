@@ -1,10 +1,10 @@
 ### Mathieu Tuli
 
-#### Software Engineer, AI Research Scientist
+#### Engineer, AI Research Scientist
 
-Bridging research and product. Building products people can actually use.
+Bridging AI research and product to make things people can actually use.
 
-Currently focused on generative for digital media, specifically for digital human products and personalized image/video diffusion.
+Focused on generative models for media (image, video, audio) and media understanding.
 
 <!--
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mathieutuli&count_private=true&show_icons=true&include_all_commits=true)
